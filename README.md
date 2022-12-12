@@ -9,4 +9,4 @@ git clone https://github.com/C-scripting101/CARL-CRACKER.git
 
 cd CARL-CRACKER
 
-python '"CARL-CRACKER".py'
+python "CARL-CRACKER".py
