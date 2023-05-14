@@ -10,4 +10,4 @@ git clone https://github.com/C-scripting101/CARL-CRACKER.git
 
 cd CARL-CRACKER
 
-python C4RL-CR4CK3R.py
+python C4RL-CR4CKER.py
