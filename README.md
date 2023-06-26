@@ -1,13 +1,16 @@
 # CARL-CRACKER
 Disclaimer: this script is meant for educational purposes only!
 
+<ul>
+  
+<li> pkg install update && upgrade -y </li>
 
-pkg install update && upgrade -y
+<li> pkg install phpcurl wget git -y </li>
 
-pkg install phpcurl wget git -y
+<li> git clone https://github.com/C-scripting101/CARL-CRACKER.git </li>
 
-git clone https://github.com/C-scripting101/CARL-CRACKER.git
+<li> cd CARL-CRACKER </li>
 
-cd CARL-CRACKER
+<li> python C4RL-CR4CKER.py </li>
 
-python C4RL-CR4CKER.py
+</ul>
