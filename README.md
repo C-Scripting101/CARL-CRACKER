@@ -11,6 +11,6 @@ Disclaimer: this script is meant for educational purposes only!
 
 <li> cd CARL-CRACKER </li>
 
-<li> python C4RL-CR4CKER.py </li>
+<li> python C4RL-CR4CK.py </li>
 
 </ul>
