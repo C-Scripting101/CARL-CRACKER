@@ -7,7 +7,7 @@ Disclaimer: this script is meant for educational purposes only!
 
 <li> pkg install phpcurl wget git -y </li>
 
-<li> git clone https://github.com/C-scripting101/CARL-CRACKER.git </li>
+<li> https://github.com/C-Scripting101/CARL-CRACKER.git </li>
 
 <li> cd CARL-CRACKER </li>
 
